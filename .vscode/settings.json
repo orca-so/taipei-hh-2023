@@ -1,0 +1,5 @@
+{
+  "eslint.workingDirectories": ["src/"],
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "typescript.preferences.importModuleSpecifierEnding": "js"
+}
